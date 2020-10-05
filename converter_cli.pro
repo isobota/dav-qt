@@ -1,3 +1,6 @@
+#
+# Copyright © 2020, Vibhoothi < mindfreeze at xiph dot org>
+#
 QT -= gui
 
 CONFIG += c++11 console
